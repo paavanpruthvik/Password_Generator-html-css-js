@@ -1,1 +1,1 @@
-# HTML-css-js: Password_Generator
+# HTML-CSS-js: Password_Generator
